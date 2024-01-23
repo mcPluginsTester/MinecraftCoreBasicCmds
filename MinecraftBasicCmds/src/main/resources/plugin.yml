@@ -1,0 +1,4 @@
+name: MinecraftBasicCmds
+version: '${project.version}'
+main: tiie.minecraftbasiccmds.MinecraftBasicCmds
+api-version: '1.20'
